@@ -1,0 +1,36 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="tbl" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="tbl">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Id" type="xs:int" minOccurs="0" />
+                <xs:element name="First_x0020_Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Last_x0020_Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Amount_x0020_Loaned_x0020__x0028_Eur_x0029_" type="xs:float" minOccurs="0" />
+                <xs:element name="Amount_x0020_with_x0020_Interest" type="xs:float" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <tbl>
+    <Id>1342</Id>
+    <First_x0020_Name>grt</First_x0020_Name>
+    <Last_x0020_Name>rhy</Last_x0020_Name>
+    <Amount_x0020_Loaned_x0020__x0028_Eur_x0029_>35</Amount_x0020_Loaned_x0020__x0028_Eur_x0029_>
+    <Amount_x0020_with_x0020_Interest>36</Amount_x0020_with_x0020_Interest>
+  </tbl>
+  <tbl>
+    <Id>351</Id>
+    <First_x0020_Name>Fresh</First_x0020_Name>
+    <Last_x0020_Name>Python</Last_x0020_Name>
+    <Amount_x0020_Loaned_x0020__x0028_Eur_x0029_>105</Amount_x0020_Loaned_x0020__x0028_Eur_x0029_>
+    <Amount_x0020_with_x0020_Interest>108</Amount_x0020_with_x0020_Interest>
+  </tbl>
+</NewDataSet>

@@ -1,0 +1,17 @@
+C:\Users\neido\Desktop\DedukoPaskola3\DedukoPaskola3\bin\Debug\DedukoPaskola3.exe.config
+C:\Users\neido\Desktop\DedukoPaskola3\DedukoPaskola3\bin\Debug\DedukoPaskola3.exe
+C:\Users\neido\Desktop\DedukoPaskola3\DedukoPaskola3\bin\Debug\DedukoPaskola3.pdb
+C:\Users\neido\Desktop\DedukoPaskola3\DedukoPaskola3\obj\Debug\DedukoPaskola3.csproj.AssemblyReference.cache
+C:\Users\neido\Desktop\DedukoPaskola3\DedukoPaskola3\obj\Debug\DedukoPaskola3.csproj.SuggestedBindingRedirects.cache
+C:\Users\neido\Desktop\DedukoPaskola3\DedukoPaskola3\obj\Debug\DedukoPaskola3.MainForm.resources
+C:\Users\neido\Desktop\DedukoPaskola3\DedukoPaskola3\obj\Debug\DedukoPaskola3.Properties.Resources.resources
+C:\Users\neido\Desktop\DedukoPaskola3\DedukoPaskola3\obj\Debug\DedukoPaskola3.csproj.GenerateResource.cache
+C:\Users\neido\Desktop\DedukoPaskola3\DedukoPaskola3\obj\Debug\DedukoPaskola3.csproj.CoreCompileInputs.cache
+C:\Users\neido\Desktop\DedukoPaskola3\DedukoPaskola3\obj\Debug\DedukoPaskola3.exe
+C:\Users\neido\Desktop\DedukoPaskola3\DedukoPaskola3\obj\Debug\DedukoPaskola3.pdb
+C:\Users\neido\Desktop\DedukoPaskola3\DedukoPaskola3\obj\Debug\DedukoPaskola3.signMenu.resources
+C:\Users\neido\Desktop\DedukoPaskola3\DedukoPaskola3\obj\Debug\DedukoPaskola3.LogInMenu.resources
+C:\Users\neido\Desktop\DedukoPaskola3\DedukoPaskola3\bin\Debug\Windows.Forms.HintTextBox.dll
+C:\Users\neido\Desktop\DedukoPaskola3\DedukoPaskola3\bin\Debug\Windows.Forms.HintTextBox.pdb
+C:\Users\neido\Desktop\DedukoPaskola3\DedukoPaskola3\obj\Debug\DedukoPaskola3.csproj.CopyComplete
+C:\Users\neido\Desktop\DedukoPaskola3\DedukoPaskola3\obj\Debug\DedukoPaskola3.mainProgram.resources
